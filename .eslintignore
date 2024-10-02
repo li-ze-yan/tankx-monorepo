@@ -1,0 +1,16 @@
+node_modules
+build
+dist
+public
+
+.eslintrc.cjs
+.commitlintrc.cjs
+.cz-config.cjs
+.stylelintrc.cjs
+.prettierrc.cjs
+syncpack.config.cjs
+
+**/next.config.mjs
+
+postcss.config.js
+tailwind.config.js
